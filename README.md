@@ -9,7 +9,7 @@ A clean, responsive landing page for showcasing backup solutions built for HPE i
 - Real-world case studies
 - Downloadable PDF overview
 - Contact form included
-- 
+  
 ## Getting Started
 
 You can clone the repository and open it locally:
